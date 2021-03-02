@@ -1,0 +1,94 @@
+{
+    "basal_rate_minutes": [
+        1440.0
+    ],
+    "basal_rate_start_times": [
+        "00:00:00"
+    ],
+    "basal_rate_units": "U/hr",
+    "basal_rate_values": [
+        0.85
+    ],
+    "carb_absorption_times": [
+    ],
+    "carb_dates": [
+    ],
+    "carb_ratio_start_times": [
+    ],
+    "carb_ratio_value_units": "g/U",
+    "carb_ratio_values": [
+    ],
+    "carb_value_units": "g",
+    "carb_values": [
+    ],
+    "dose_end_times": [
+    ],
+    "dose_start_times": [
+    ],
+    "dose_types": [
+    ],
+    "dose_value_units": "U or U/hr",
+    "dose_delivered_units": [
+    ],
+    "dose_values": [
+    ],
+    "glucose_dates": [
+    ],
+    "glucose_units": "mg/dL",
+    "glucose_values": [
+    ],
+    "offset_applied_to_dates": 0,
+    "last_temporary_basal": [
+        "basal",
+        "2019-08-15t12:01:24+00:00",
+        "2019-08-15t12:31:24+00:00",
+        0.0
+    ],
+    "sensitivity_ratio_end_times": [
+        "00:00:00"
+    ],
+    "sensitivity_ratio_start_times": [
+        "00:00:00"
+    ],
+    "sensitivity_ratio_value_units": "mg/dL/U",
+    "sensitivity_ratio_values": [
+        50.0
+    ],
+    "settings_dictionary": {
+        "carb_delay": 10,
+        "default_absorption_times": [
+            120.0,
+            180.0,
+            240.0
+        ],
+        "dynamic_carb_absorption_enabled": true,
+        "insulin_delay": 10,
+        "max_basal_rate": 15.0,
+        "max_bolus": 15.0,
+        "model": [
+            360.0,
+            65
+        ],
+        "momentum_data_interval": 15.0,
+        "rate_rounder": 0.05,
+        "recency_interval": 15,
+        "retrospective_correction_enabled": false,
+        "retrospective_correction_grouping_interval": 30,
+        "retrospective_correction_integration_interval": 30,
+        "suspend_threshold": null
+    },
+    "target_range_end_times": [
+        "00:00:00"
+    ],
+    "target_range_maximum_values": [
+        95.0
+    ],
+    "target_range_minimum_values": [
+        90.0
+    ],
+    "target_range_start_times": [
+        "00:00:00"
+    ],
+    "target_range_value_units": "mg/dL",
+    "time_to_calculate_at": "2019-08-15T12:01:24+00:00"
+}

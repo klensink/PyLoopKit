@@ -37,20 +37,15 @@
         15.0
     ],
     "dose_end_times": [
-        "2019-08-15T12:02:28+00:00"
     ],
     "dose_start_times": [
-        "2019-08-15T12:01:16+00:00"
     ],
     "dose_types": [
-        "bolus"
     ],
     "dose_value_units": "U or U/hr",
     "dose_delivered_units": [
-        null
     ],
     "dose_values": [
-        1.8
     ],
     "glucose_dates": [
         "2019-08-14T15:59:34+00:00",

@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../simglucose"
+		}
+	],
+	"settings": {},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"name": "Example",
+				"type": "python",
+				"request": "launch",
+				"program": "{$workspace}PyLoopKit/example.py",
+				"console": "integratedTerminal"
+			},
+			{
+				"name": "SimGlucose",
+				"type": "python",
+				"request": "launch",
+				"program": "simglucose/examples/advanced_tutorial.py",
+				"console": "integratedTerminal"
+			}
+		]
+	}
+}

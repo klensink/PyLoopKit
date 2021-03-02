@@ -1,0 +1,98 @@
+{
+    "offset_applied_to_dates": 0,
+    "time_to_calculate_at": "",
+    "glucose_dates": [
+    ],
+    "glucose_values": [
+    ],
+    "glucose_units": "mg/dL",
+    "dose_types": [
+    ],
+    "dose_start_times": [
+    ],
+    "dose_end_times": [
+    ],
+    "dose_values": [
+    ],
+    "dose_value_units": "U or U/hr",
+    "dose_delivered_units": [
+    ],
+    "carb_dates": [
+    ],
+    "carb_values": [
+    ],
+    "carb_absorption_times": [
+    ],
+    "carb_value_units": "g",
+    "settings_dictionary": {
+        "model": [
+            360.0,
+            65
+        ],
+        "momentum_data_interval": 15.0,
+        "suspend_threshold": null,
+        "dynamic_carb_absorption_enabled": true,
+        "retrospective_correction_integration_interval": 30,
+        "recency_interval": 15,
+        "retrospective_correction_grouping_interval": 30,
+        "rate_rounder": 0.05,
+        "insulin_delay": 10,
+        "carb_delay": 10,
+        "default_absorption_times": [
+            120.0,
+            180.0,
+            240.0
+        ],
+        "max_basal_rate": 7.0,
+        "max_bolus": 8.0,
+        "retrospective_correction_enabled": false
+    },
+    "sensitivity_ratio_start_times": [
+        "00:00:00"
+    ],
+    "sensitivity_ratio_end_times": [
+        "00:00:00"
+    ],
+    "sensitivity_ratio_values": [
+        70.0
+    ],
+    "sensitivity_ratio_value_units": "mg/dL/U",
+    "carb_ratio_start_times": [
+        "00:00:00"
+    ],
+    "carb_ratio_values": [
+        12.0
+    ],
+    "carb_ratio_value_units": "g/U",
+    "basal_rate_start_times": [
+        "00:00:00",
+        "09:30:00",
+        "21:00:00"
+    ],
+    "basal_rate_minutes": [
+        570.0,
+        690.0,
+        1260.0
+    ],
+    "basal_rate_values": [
+        1.45,
+        0.9,
+        0.75
+    ],
+    "basal_rate_units": "U/hr",
+    "target_range_start_times": [
+        "00:00:00"
+    ],
+    "target_range_end_times": [
+        "00:00:00"
+    ],
+    "target_range_minimum_values": [
+        90.0
+    ],
+    "target_range_maximum_values": [
+        95.0
+    ],
+    "target_range_value_units": "mg/dL",
+    "last_temporary_basal": [
+    ]
+}
